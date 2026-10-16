@@ -1,1 +1,6 @@
-
+siteName: test-vero
+productionUrl: https://test-vero.pages.dev
+languages:
+  - code: en
+    status: published
+    keepUrlPrefix: false
